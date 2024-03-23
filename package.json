@@ -1,0 +1,26 @@
+{
+  "name": "tea-apk",
+  "version": "1.0.0",
+  "description": "Tea",
+  "main": "index.js",
+  "dependencies": {
+    "tea-apk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "empty 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhapBui/tea-apk.git"
+  },
+  "keywords": [
+    "Tea"
+  ],
+  "author": "PhapBui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhapBui/tea-apk/issues"
+  },
+  "homepage": "https://github.com/PhapBui/tea-apk#readme"
+}
